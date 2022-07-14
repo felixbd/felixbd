@@ -19,10 +19,8 @@ Here are some ideas to get you started:
 |:---:|:---:|
 
 
-<!--
+## [My Gist](https://gist.github.com/felixbd) 
 
-## Top projects:
+- ### [din-letter-template.tex](https://gist.github.com/felixbd/069689490fec49fbcda5b93ec7d21e91)
+- ### [convert-dicom-images.py](https://gist.github.com/felixbd/981d9b0b17cf7ab18cd8bf1710dda3e1)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felixbd&repo=rubiks_cube)](https://github.com/felixbd/rubiks_cube)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=felixbd&repo=rubiks_cube)](https://github.com/felixbd/rubiks_cube)
-
--->
